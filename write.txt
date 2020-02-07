@@ -1,0 +1,28 @@
+PEMDAS
+-pair of parathensis
+-Exponemtil
+-Mulitiplication
+-Division
+-Addition
+-Subtraction
+
+*Array
+ fuctions are building blocks of computer 
+use def fuction()
+
+
+Assignment
+function payee(){
+var income 100000
+var tax=[(30/100)*income]
+console.log(tax)
+}
+
+
+function add(){
+let c =(a+b)
+console.(c)
+}
+add(20,30)
+
+*change the calculator into parameterlised function
